@@ -29,6 +29,7 @@ internal class Program
 
             Console.WriteLine($"CPF: {cpf}, Telefone: {telefone}");
         }
+            Console.ReadLine();
     }
 
 }
